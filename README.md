@@ -1,4 +1,4 @@
-simpletask-monokai-spacegray
+SimpleTask Monokai Spacegray
 ============================
 
 A SimpleTask-Theme that fits my Monokai Spacegray-Theme.

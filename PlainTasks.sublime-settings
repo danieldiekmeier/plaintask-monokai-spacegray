@@ -1,0 +1,18 @@
+{
+	"open_tasks_bullet": "–",
+	"done_tasks_bullet": "+",
+	"cancelled_tasks_bullet": "x",
+	"before_tasks_bullet_margin": 4,
+	"tab_size": 4,
+	"translate_tabs_to_spaces": false,
+	"color_scheme": "Packages/PlainTasks/tasks-monokai-spacegray.hidden-tmTheme",
+	"font_face": "Source Code Pro Medium",
+	"font_size": 15.0,
+	"draw_indent_guides": true,
+	"line_numbers": true,
+	"use_tab_stops": true,
+	"fade_fold_buttons": true,
+	"translate_tabs_to_spaces": false,
+	"indent_after_task": false,
+	"done_tag": true
+}
